@@ -1,4 +1,4 @@
-# Play
+# About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -25,10 +25,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
     ---
-    
+
     Install [`mkdocs-material`](#) with [`pip`](#) and get up
     and running in minutes
-    
+
     [:octicons-arrow-right-24: Getting started](#)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
