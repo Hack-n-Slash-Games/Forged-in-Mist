@@ -1,14 +1,14 @@
 # Special instructions go here.
 
 # PROJECT
-site_name: Material for MkDocs Template Demo
+site_name: Play-by-Github Test
 site_author: B.A. Umberger
-site_url: https://oldmanumby.github.io/material-for-mkdocs-template
-site_description: An demo GitHub template for Material for MkDocs Insiders Edition complete with GH Pages.
+site_url: https://hack-n-slash-games.github.io/Forged-in-Mist/
+site_description: An RPG Play-by-Github Test Site.
 
 # REPOSITORY
-repo_name: oldmanumby/material-for-mkdocs-template
-repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
+repo_name: Hack-n-Slash-Games/Forged-in-Mist
+repo_url: https://github.com/Hack-n-Slash-Games/Forged-in-Mist
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -166,11 +166,11 @@ markdown_extensions:
 #  /tutorials/**/*.md
 
 # MENU TREE
-nav:
-  - Home: index.md
-  - Blog:
-    - blog/index.md
-  - About: about.md
+#nav:
+#  - Home: index.md
+#  - Blog:
+#    - blog/index.md
+#  - About: about.md
 #  - Getting started:
 #    - Installation: getting-started.md
 #    - Creating your site: creating-your-site.md
